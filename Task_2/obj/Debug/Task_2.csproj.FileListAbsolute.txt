@@ -1,0 +1,8 @@
+C:\Users\Aleksandr\source\repos\Task_2\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\Aleksandr\source\repos\Task_2\Task_2\bin\Debug\Task_2.exe
+C:\Users\Aleksandr\source\repos\Task_2\Task_2\bin\Debug\Task_2.pdb
+C:\Users\Aleksandr\source\repos\Task_2\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Task_2\Task_2\obj\Debug\Task_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\source\repos\Task_2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Task_2\Task_2\obj\Debug\Task_2.exe
+C:\Users\Aleksandr\source\repos\Task_2\Task_2\obj\Debug\Task_2.pdb
